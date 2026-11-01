@@ -1,0 +1,18 @@
+{
+  "image": "agri_0_1017.jpeg",
+  "detections": [
+    {
+      "class_id": 1,
+      "class_name": "weed",
+      "confidence": 0.6548,
+      "box_xyxy": [
+        4.19,
+        0.0,
+        508.44,
+        362.61
+      ]
+    }
+  ],
+  "count": 1,
+  "annotated_image": "agri_0_1017_detected.jpeg"
+}
